@@ -1,0 +1,18 @@
+.footer {
+	background-color: #1D211A;
+	background-image: url('http://www.achill-online.net/wp-content/themes/paperwork-10/img/bg_top.jpg');
+	height: 30px;
+	text-align: center;
+	font-size:9pt;
+	color:#fff;
+	font-family:Verdana;
+	padding-top: 10px;
+	width: 100%;
+	position:fixed;
+	left: 0px;
+	bottom: 0px;
+}
+
+.footer input {
+	font-size:8pt;
+}
